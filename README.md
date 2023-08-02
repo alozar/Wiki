@@ -10,6 +10,7 @@
 * [Оптимизация запросов базы данных на примере B2B сервиса для строителей](https://habr.com/ru/articles/461071/)
 * [Три аспекта оптимизации (БД и ПО)](https://habr.com/ru/articles/349910/)
 ## Брокеры сообщений (очередей)
+* [Apache Kafka и RabbitMQ: в чем разница и что лучше изучать?](https://habr.com/ru/companies/southbridge/articles/666326/)
 * [RabbitMQ. Часть 1. Introduction. Erlang, AMQP](https://habr.com/ru/articles/488654/)
 * [RabbitMQ. Часть 2. Разбираемся с Exchanges](https://habr.com/ru/articles/489086/)
 * [RabbitMQ. Часть 3. Разбираемся с Queues и Bindings](https://habr.com/ru/articles/490960/)
