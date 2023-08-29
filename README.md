@@ -4,6 +4,7 @@
 * [Реализация HATEOAS в ASP.NET Core Web API](https://forproger.ru/article/realizaciya-hateoas-v-aspnet-core-web-api)
 * [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/)
 * [Удобный REST для Xamarin-приложений / Библиотека Refit](https://habr.com/ru/companies/microsoft/articles/310704/) - [(git)](https://github.com/reactiveui/refit)
+* [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
 ## SQL
 * [Оконные функции в SQL — что это и зачем они нужны](https://tproger.ru/translations/sql-window-functions/)
 * [Тюнинг производительности запросов в PostgreSQL](https://habr.com/ru/articles/461997/)
