@@ -1,5 +1,7 @@
 # Полезные статьи
 
+## ООП
+* [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/)
 ## C#
 * [Реализация HATEOAS в ASP.NET Core Web API](https://forproger.ru/article/realizaciya-hateoas-v-aspnet-core-web-api)
 * [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/)
