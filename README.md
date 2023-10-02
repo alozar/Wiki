@@ -7,6 +7,10 @@
 * [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/)
 * [Удобный REST для Xamarin-приложений / Библиотека Refit](https://habr.com/ru/companies/microsoft/articles/310704/) - [(git)](https://github.com/reactiveui/refit)
 * [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
+* [Using MediatR Request Handlers in ASP.NET Core to Decouple Code](https://dev.to/stevenmclintock/using-mediatr-request-handlers-in-aspnet-core-to-decouple-code-1mko) *12.12.2022*
+* [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) *15.09.2023*
+## Entity Framework Core
+* [Ускоряемся в Entity Framework Core](https://habr.com/ru/articles/487734/) *10.02.2020*
 ## SQL
 * [Оконные функции в SQL — что это и зачем они нужны](https://tproger.ru/translations/sql-window-functions/)
 * [Тюнинг производительности запросов в PostgreSQL](https://habr.com/ru/articles/461997/)
