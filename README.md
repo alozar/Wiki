@@ -1,3 +1,6 @@
+# Видеоблоггеры
+* [Codewrinkles](https://www.youtube.com/@Codewrinkles)
+
 # Полезные статьи
 
 ## ООП
@@ -10,10 +13,15 @@
 
 ## C#
 * [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/)
-* [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
-* [Using MediatR Request Handlers in ASP.NET Core to Decouple Code](https://dev.to/stevenmclintock/using-mediatr-request-handlers-in-aspnet-core-to-decouple-code-1mko) *12.12.2022*
 * [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) *15.09.2023*
 * [CancellationToken в C#](https://stefaniuk.website/all/cancellationtoken/) *27.05.2019*
+
+## MediatR
+* [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
+* [Using MediatR Request Handlers in ASP.NET Core to Decouple Code](https://dev.to/stevenmclintock/using-mediatr-request-handlers-in-aspnet-core-to-decouple-code-1mko) *12.12.2022*
+* [Sharing Context Between MediatR Components](https://www.youtube.com/watch?v=UnM39Wx6Vro) *video*
+* [Using MediatR Pipeline Behaviors For Database Transactions](https://www.youtube.com/watch?v=baf4GeBB4NM) *video*
+
 ## Entity Framework Core
 * [Ускоряемся в Entity Framework Core](https://habr.com/ru/articles/487734/) *10.02.2020*
 
