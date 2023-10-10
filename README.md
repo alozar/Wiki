@@ -2,3 +2,4 @@
 * [Статьи](/Articles.md)
 * [Видео](/Videos.md)
 * [Блоггеры](/Bloggers.md)
+* [Скрипты](/Scripts.md)
