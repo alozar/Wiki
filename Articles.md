@@ -1,24 +1,24 @@
 # Cтатьи
 
 ## ООП
-* [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/)
+* [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/) <sup>*29.08.2023*</sup>
 
 ## REST API
 * [Реализация HATEOAS в ASP.NET Core Web API](https://forproger.ru/article/realizaciya-hateoas-v-aspnet-core-web-api)
-* [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/companies/yandex/articles/442762/) *12.03.2019*
+* [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/companies/yandex/articles/442762/) <sup>*12.03.2019*</sup>
 * [Удобный REST для Xamarin-приложений / Библиотека Refit](https://habr.com/ru/companies/microsoft/articles/310704/) - [(git)](https://github.com/reactiveui/refit)
 
 ## C#
 * [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/)
-* [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) *15.09.2023*
-* [CancellationToken в C#](https://stefaniuk.website/all/cancellationtoken/) *27.05.2019*
+* [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) <sup>*15.09.2023*</sup>
+* [CancellationToken в C#](https://stefaniuk.website/all/cancellationtoken/) <sup>*27.05.2019*</sup>
 
 ## MediatR
 * [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
-* [Using MediatR Request Handlers in ASP.NET Core to Decouple Code](https://dev.to/stevenmclintock/using-mediatr-request-handlers-in-aspnet-core-to-decouple-code-1mko) *12.12.2022*
+* [Using MediatR Request Handlers in ASP.NET Core to Decouple Code](https://dev.to/stevenmclintock/using-mediatr-request-handlers-in-aspnet-core-to-decouple-code-1mko) <sup>*12.12.2022*</sup>
 
 ## Entity Framework Core
-* [Ускоряемся в Entity Framework Core](https://habr.com/ru/articles/487734/) *10.02.2020*
+* [Ускоряемся в Entity Framework Core](https://habr.com/ru/articles/487734/) <sup>*10.02.2020*</sup>
 
 ## SQL
 * [Оконные функции в SQL — что это и зачем они нужны](https://tproger.ru/translations/sql-window-functions/)
