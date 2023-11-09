@@ -2,6 +2,7 @@
 
 ## ООП
 * [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/) <sup>*29.08.2023*</sup>
+* [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) <sup>*15.09.2023*</sup>
 
 ## REST API
 * [Проектирование веб-API RESTFUL](https://learn.microsoft.com/ru-ru/azure/architecture/best-practices/api-design) <sup>*29.03.2023*</sup>
@@ -10,9 +11,11 @@
 * [Удобный REST для Xamarin-приложений / Библиотека Refit](https://habr.com/ru/companies/microsoft/articles/310704/) - [(git)](https://github.com/reactiveui/refit)
 
 ## C#
-* [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/)
-* [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) <sup>*15.09.2023*</sup>
+* [Использование ключевых слов "Override" и "New"](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords) <sup>*07.04.2023*</sup>
 * [CancellationToken в C#](https://stefaniuk.website/all/cancellationtoken/) <sup>*27.05.2019*</sup>
+
+## AutoMapper
+* [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/) <sup>*4.022022*</sup>
 
 ## MediatR
 * [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
