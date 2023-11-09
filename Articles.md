@@ -17,6 +17,9 @@
 * [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
 * [Using MediatR Request Handlers in ASP.NET Core to Decouple Code](https://dev.to/stevenmclintock/using-mediatr-request-handlers-in-aspnet-core-to-decouple-code-1mko) <sup>*12.12.2022*</sup>
 
+## Serilog
+* [Common features in ASP.NET Core 2.1 WebApi: Logging](https://anthonygiretti.com/2018/11/19/common-features-in-asp-net-core-2-1-webapi-logging/) <sup>*19.11.2018*</sup>
+
 ## Entity Framework Core
 * [Ускоряемся в Entity Framework Core](https://habr.com/ru/articles/487734/) <sup>*10.02.2020*</sup>
 
