@@ -4,6 +4,7 @@
 * [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/) <sup>*29.08.2023*</sup>
 
 ## REST API
+* [Проектирование веб-API RESTFUL](https://learn.microsoft.com/ru-ru/azure/architecture/best-practices/api-design) <sup>*29.03.2023*</sup>
 * [Реализация HATEOAS в ASP.NET Core Web API](https://forproger.ru/article/realizaciya-hateoas-v-aspnet-core-web-api)
 * [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/companies/yandex/articles/442762/) <sup>*12.03.2019*</sup>
 * [Удобный REST для Xamarin-приложений / Библиотека Refit](https://habr.com/ru/companies/microsoft/articles/310704/) - [(git)](https://github.com/reactiveui/refit)
