@@ -1,5 +1,9 @@
 # Cтатьи
 
+## Slice-архитектура
+* [Быстрорастворимое проектирование](https://habr.com/ru/companies/jugru/articles/447308/) <sup>*18.04.2019*</sup>
+* [CQRS — что делать с кодом, который нужно использовать сразу в нескольких обработчиках?](https://habr.com/ru/articles/547746/) <sup>*18.03.2021*</sup>
+
 ## ООП
 * [Ad-hoc-полиморфизм и паттерн type class в C#](https://habr.com/ru/companies/ruvds/articles/757118/) <sup>*29.08.2023*</sup>
 * [Unit of Work, Repositories Pattern, and Fluent Validation in Dotnet Core Web API](https://dev.to/drsimplegraffiti/unit-of-work-repositories-pattern-and-fluent-validation-in-dotnet-core-web-api--3i8h) <sup>*15.09.2023*</sup>
