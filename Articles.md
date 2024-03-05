@@ -33,6 +33,7 @@
 * [Ускоряемся в Entity Framework Core](https://habr.com/ru/articles/487734/) <sup>*10.02.2020*</sup>
 
 ## SQL
+* [**Учимся применять оконные функции**](https://thisisdata.ru/blog/uchimsya-primenyat-okonnyye-funktsii/) <sup>*29.09.2020*</sup>
 * [Оконные функции с «форточкой» или как пользоваться фреймом](https://habr.com/ru/companies/otus/articles/490296/) <sup>*28.02.2020*</sup>
 * [Оконные функции в SQL — что это и зачем они нужны](https://tproger.ru/translations/sql-window-functions/)
 * [Тюнинг производительности запросов в PostgreSQL](https://habr.com/ru/articles/461997/)
