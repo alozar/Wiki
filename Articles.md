@@ -30,7 +30,10 @@
 * [Common features in ASP.NET Core 2.1 WebApi: Logging](https://anthonygiretti.com/2018/11/19/common-features-in-asp-net-core-2-1-webapi-logging/) <sup>*19.11.2018*</sup>
 * [Series: Using Serilog.AspNetCore in ASP.NET Core 3.0](https://andrewlock.net/series/using-serilog-aspnetcore-in-asp-net-core-3/) <sup>*31.12.2019*</sup>
 
-## Moq
+## GraphQL
+* [Intro to GraphQL with .NET (C#) & Hot Chocolate](https://www.apollographql.com/tutorials/intro-hotchocolate) <sup>*05.03.2024*</sup>
+
+## Mock
 * [How to Mock EF Core DbContext](https://code-maze.com/ef-core-mock-dbcontext/) <sup>*13.02.2023*</sup>
 
 ## Entity Framework Core
