@@ -13,6 +13,7 @@
 * [Реализация HATEOAS в ASP.NET Core Web API](https://forproger.ru/article/realizaciya-hateoas-v-aspnet-core-web-api)
 * [Стажёр Вася и его истории об идемпотентности API](https://habr.com/ru/companies/yandex/articles/442762/) <sup>*12.03.2019*</sup>
 * [Удобный REST для Xamarin-приложений / Библиотека Refit](https://habr.com/ru/companies/microsoft/articles/310704/) - [(git)](https://github.com/reactiveui/refit)
+* [Проектирование REST API: спорные вопросы с проектов и собеседований на системного аналитика (и не только)](https://habr.com/ru/articles/770226/) <sup>*27.10.2023*</sup>
 
 ## C#
 * [Использование ключевых слов "Override" и "New"](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords) <sup>*07.04.2023*</sup>
