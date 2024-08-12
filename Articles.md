@@ -1,5 +1,9 @@
 # Cтатьи
 
+## Async/Await
+* [CancellationToken в C#](https://stefaniuk.website/all/cancellationtoken/) <sup>*27.05.2019*</sup>
+* [The elegant way to await multiple tasks in .NET.](https://dev.to/serhii_korol_ab7776c50dba/the-elegant-way-to-await-multiple-tasks-in-net-11pl) <sup>*12.11.2023*</sup>
+
 ## Slice-архитектура
 * [Быстрорастворимое проектирование](https://habr.com/ru/companies/jugru/articles/447308/) <sup>*18.04.2019*</sup>
 * [CQRS — что делать с кодом, который нужно использовать сразу в нескольких обработчиках?](https://habr.com/ru/articles/547746/) <sup>*18.03.2021*</sup>
@@ -17,7 +21,6 @@
 
 ## C#
 * [Использование ключевых слов "Override" и "New"](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords) <sup>*07.04.2023*</sup>
-* [CancellationToken в C#](https://stefaniuk.website/all/cancellationtoken/) <sup>*27.05.2019*</sup>
 * [LINQ: Dynamic Join](https://blog.wiseowls.co.nz/index.php/2020/12/21/linq-dynamic-join/) <sup>*21.12.2020*</sup>
 
 ## AutoMapper
@@ -47,6 +50,9 @@
 * [Тюнинг производительности запросов в PostgreSQL](https://habr.com/ru/articles/461997/)
 * [Оптимизация запросов базы данных на примере B2B сервиса для строителей](https://habr.com/ru/articles/461071/)
 * [Три аспекта оптимизации (БД и ПО)](https://habr.com/ru/articles/349910/)
+
+## JS
+* [URLSearchParams](https://developer.mozilla.org/ru/docs/Web/API/URLSearchParams)
 
 ## Брокеры сообщений (очередей)
 * [Apache Kafka и RabbitMQ: в чем разница и что лучше изучать?](https://habr.com/ru/companies/southbridge/articles/666326/)
