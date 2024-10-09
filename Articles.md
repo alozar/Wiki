@@ -23,6 +23,9 @@
 * [Использование ключевых слов "Override" и "New"](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords) <sup>*07.04.2023*</sup>
 * [LINQ: Dynamic Join](https://blog.wiseowls.co.nz/index.php/2020/12/21/linq-dynamic-join/) <sup>*21.12.2020*</sup>
 
+## Swagger
+* [How to Hide an Endpoint in Swagger](https://code-maze.com/aspnetcore-how-to-hide-endpoint-in-swagger/) <sup>*05.09.2023*</sup>
+
 ## AutoMapper
 * [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/) <sup>*4.022022*</sup>
 
