@@ -1,5 +1,8 @@
 # Cтатьи
 
+## Micro Frontends
+* [Микро-фронтенды React с федерацией модулей Webpack](https://dev.to/pahanperera/react-micro-frontends-with-webpacks-module-federation-32ii?ysclid=m3ftil2te6745747)) <sup>21.12.2021</sup>
+
 ## Proxy
 * [Открытые клиенты Hola VPN и Opera VPN](https://habr.com/ru/articles/555368/) <sup>01.05.2021</sup>
 
