@@ -28,6 +28,8 @@
 ## C#
 * [Использование ключевых слов "Override" и "New"](https://learn.microsoft.com/ru-ru/dotnet/csharp/programming-guide/classes-and-structs/knowing-when-to-use-override-and-new-keywords) <sup>*07.04.2023*</sup>
 * [LINQ: Dynamic Join](https://blog.wiseowls.co.nz/index.php/2020/12/21/linq-dynamic-join/) <sup>*21.12.2020*</sup>
+* [Оцениваем сложность алгоритмов на C# по памяти и времени с примерами](https://habr.com/ru/companies/fuse8/articles/808385/) <sup>*17.04.2024*</sup>
+* [Как правильно замерить скорость работы кода в .NET](https://habr.com/ru/companies/fuse8/articles/803885/) <sup>*29.03.2024*</sup>
 
 ## Swagger
 * [How to Hide an Endpoint in Swagger](https://code-maze.com/aspnetcore-how-to-hide-endpoint-in-swagger/) <sup>*05.09.2023*</sup>
