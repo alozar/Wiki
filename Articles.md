@@ -48,7 +48,9 @@
 ## GraphQL
 * [Intro to GraphQL with .NET (C#) & Hot Chocolate](https://www.apollographql.com/tutorials/intro-hotchocolate) <sup>*05.03.2024*</sup>
 
-## Mock
+## Тестирование
+* [xUnit Theory: Working With InlineData, MemberData, ClassData](https://hamidmosalla.com/2017/02/25/xunit-theory-working-with-inlinedata-memberdata-classdata/) <sup>*25.02.2017*</sup>
+* [Creating a custom xUnit theory test DataAttribute to load data from JSON files](https://andrewlock.net/creating-a-custom-xunit-theory-test-dataattribute-to-load-data-from-json-files/) <sup>*14.10.2017*</sup>
 * [How to Mock EF Core DbContext](https://code-maze.com/ef-core-mock-dbcontext/) <sup>*13.02.2023*</sup>
 
 ## Entity Framework Core
