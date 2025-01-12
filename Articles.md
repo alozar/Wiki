@@ -1,5 +1,10 @@
 # Cтатьи
 
+## Алгориты
+* [Оцениваем сложность алгоритмов на C# по памяти и времени с примерами](https://habr.com/ru/companies/fuse8/articles/808385/) <sup>17.04.2024</sup>
+* [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/companies/ozontech/articles/667728/) <sup>14.06.2022</sup>
+* [Как мы выбираем задания на отбор Route 256: подход и разбор задач](https://habr.com/ru/companies/ozontech/articles/833762/) <sup>06.08.2022</sup>
+
 ## Micro Frontends
 * [Микро-фронтенды React с федерацией модулей Webpack](https://dev.to/pahanperera/react-micro-frontends-with-webpacks-module-federation-32ii?ysclid=m3ftil2te6745747)) <sup>21.12.2021</sup>
 
@@ -35,7 +40,7 @@
 * [How to Hide an Endpoint in Swagger](https://code-maze.com/aspnetcore-how-to-hide-endpoint-in-swagger/) <sup>*05.09.2023*</sup>
 
 ## AutoMapper
-* [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/) <sup>*4.022022*</sup>
+* [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/) <sup>*04.02.2022*</sup>
 
 ## MediatR
 * [Зачем нужен MediatR?](https://habr.com/ru/articles/588887/)
