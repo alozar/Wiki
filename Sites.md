@@ -1,2 +1,3 @@
 # Сайты
-* [https://zzzcode.ai/](https://zzzcode.ai/)
+* [AI-ассистент zzzcode](https://zzzcode.ai/)
+* [Клевер – журнал о работе в IT](https://klever.blog/)
