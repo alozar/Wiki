@@ -4,11 +4,6 @@
 * [Тет-а-тет: задаем правильные вопросы](https://habr.com/ru/articles/322444/) <sup>22.02.2017</sup>
 * [Начинающим тимлидам: как проводить 1-1 с сотрудниками](https://klever.blog/1-1-for-teamleads/) <sup>18.09.2020</sup>
 
-## Алгориты
-* [Оцениваем сложность алгоритмов на C# по памяти и времени с примерами](https://habr.com/ru/companies/fuse8/articles/808385/) <sup>17.04.2024</sup>
-* [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/companies/ozontech/articles/667728/) <sup>14.06.2022</sup>
-* [Как мы выбираем задания на отбор Route 256: подход и разбор задач](https://habr.com/ru/companies/ozontech/articles/833762/) <sup>06.08.2022</sup>
-
 ## Micro Frontends
 * [Микро-фронтенды React с федерацией модулей Webpack](https://dev.to/pahanperera/react-micro-frontends-with-webpacks-module-federation-32ii?ysclid=m3ftil2te6745747)) <sup>21.12.2021</sup>
 
