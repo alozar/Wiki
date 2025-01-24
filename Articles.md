@@ -35,7 +35,8 @@
 * [Оцениваем сложность алгоритмов на C# по памяти и времени с примерами](https://habr.com/ru/companies/fuse8/articles/808385/) <sup>*17.04.2024*</sup>
 * [Как правильно замерить скорость работы кода в .NET](https://habr.com/ru/companies/fuse8/articles/803885/) <sup>*29.03.2024*</sup>
 
-## Swagger
+## Версионирование
+* [Реализация нескольких версий API в ASP.NET](https://andrey.moveax.ru/post/aspnet-api-versioning-support) <sup>*03.06.2020*</sup>
 * [How to Hide an Endpoint in Swagger](https://code-maze.com/aspnetcore-how-to-hide-endpoint-in-swagger/) <sup>*05.09.2023*</sup>
 
 ## AutoMapper
