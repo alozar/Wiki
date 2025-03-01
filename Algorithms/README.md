@@ -7,6 +7,12 @@
 - [Оцениваем сложность алгоритмов на C# по памяти и времени с примерами](https://habr.com/ru/companies/fuse8/articles/808385/) <sup>17.04.2024</sup>
 - [Считаем, сколько заплатить в магазине и проверяем поле морского боя: разбор задач для разработчиков C#, iOS и Android](https://habr.com/ru/companies/ozontech/articles/667728/) <sup>14.06.2022</sup>
 - [Как мы выбираем задания на отбор Route 256: подход и разбор задач](https://habr.com/ru/companies/ozontech/articles/833762/) <sup>06.08.2022</sup>
+- Решения задач LeetCode от NeetCode:  
+https://neetcode.io/practice  
+https://github.com/neetcode-gh/leetcode
+- Все задачи из новой книги Alex Xu - Coding Interview Patterns с решениями, бесплатно:  
+https://bytebytego.com/exercises/coding-patterns  
+https://github.com/ByteByteGoHq/coding-interview-patterns
 
 ## Структуры данных
 
