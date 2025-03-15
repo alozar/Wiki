@@ -2,8 +2,9 @@
 
 - [Статьи](Articles.md)
 - [Алгоритмы](Algorithms/README.md)
-- [Видео](Videos.md)
 - [Блоггеры](Bloggers.md)
 - [Скрипты](Scripts.md)
 - [Сайты](Sites.md)
 - [PWA](PWA.md)
+- [RabbitMQ](RabbitMQ.md)
+- [MediatR](MediatR.md)
