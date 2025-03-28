@@ -8,3 +8,4 @@
 - [PWA](PWA.md)
 - [RabbitMQ](RabbitMQ.md)
 - [MediatR](MediatR.md)
+- [Swagger](Swagger.md)
