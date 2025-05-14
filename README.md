@@ -9,3 +9,4 @@
 - [RabbitMQ](RabbitMQ.md)
 - [MediatR](MediatR.md)
 - [Swagger](Swagger.md)
+- [HotChocolate](HotChocolate.md)
