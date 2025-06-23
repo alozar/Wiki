@@ -52,6 +52,7 @@
 ## AutoMapper
 
 - [AutoMapper: добавление и использование в проекте ASP.Net Core](https://habr.com/ru/articles/649645/) <sup>_04.02.2022_</sup>
+- [Автомаппер для бедных](https://habr.com/ru/articles/715532/) <sup>_08.02.2023_</sup>
 
 ## Serilog
 
